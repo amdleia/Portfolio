@@ -18,5 +18,4 @@ HTML, CSS, JavaScript, Font Awesome
 
 ## 📞 Contact
 - 📧 Email: padua.amanda14@gmail.com  
-- 💻 GitHub: https://github.com/amdleia  
-- 🔗 LinkedIn: https://www.linkedin.com/in/amanda-leigh-padua-1b3b7940a/
+ - 🔗 LinkedIn: https://www.linkedin.com/in/amanda-leigh-padua-1b3b7940a/
